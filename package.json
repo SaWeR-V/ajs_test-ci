@@ -1,0 +1,28 @@
+{
+  "name": "ajs_test-ci",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaWeR-V/ajs_test-ci.git"
+  },
+  "author": "SaWeR_V",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaWeR-V/ajs_test-ci/issues"
+  },
+  "homepage": "https://github.com/SaWeR-V/ajs_test-ci#readme",
+  "description": "",
+  "devDependencies": {
+    "@babel/cli": "^7.24.1",
+    "@babel/core": "^7.24.4",
+    "@babel/preset-env": "^7.24.4",
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "core-js": "^3.37.0"
+  }
+}

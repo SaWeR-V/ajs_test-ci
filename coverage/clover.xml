@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1713432689180" clover="3.2.0">
+  <project timestamp="1713432689180" name="All files">
+    <metrics statements="7" coveredstatements="7" conditionals="10" coveredconditionals="10" methods="1" coveredmethods="1" elements="18" coveredelements="18" complexity="0" loc="7" ncloc="7" packages="1" files="1" classes="1"/>
+    <file name="checkUp.js" path="C:\Users\SaWeR\Desktop\ajs_test-ci\src\checkUp.js">
+      <metrics statements="7" coveredstatements="7" conditionals="10" coveredconditionals="10" methods="1" coveredmethods="1"/>
+      <line num="3" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="6" count="3" type="cond" truecount="4" falsecount="0"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="9" count="2" type="cond" truecount="4" falsecount="0"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
